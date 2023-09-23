@@ -40,7 +40,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'contributing',
+        name: 'contributions',
         message: 'Contributions:',
         validate: input => approveInput(input, 'Add any contributions to your project')
     },

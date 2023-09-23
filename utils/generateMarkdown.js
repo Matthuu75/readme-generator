@@ -37,6 +37,15 @@ function generateMarkdown(data) {
 
   # ${data.title}
 
+  ## Table of Contents
+  [Description](#description)
+  [Installation](#installation)
+  [Usage](#usage)
+  [Contributions](#contributions)
+  [Tests](#tests)
+  [GitHub](#github)
+  [Email](#email)
+
   ## Desription
   ${data.description}
 
@@ -46,8 +55,8 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## Contributing
-  ${data.contributing}
+  ## Contributions
+  ${data.contributions}
 
   ## Tests
   ${data.tests}
