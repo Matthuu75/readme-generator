@@ -49,7 +49,7 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contributing}
 
-  ##Tests
+  ## Tests
   ${data.tests}
 
   ## License
