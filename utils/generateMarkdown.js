@@ -50,7 +50,8 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## License
-  ${renderLicenseBadge(data.license)}](${renderLicenseLink(data.license)})
+  ${renderLicenseBadge(data.license)}
+  ${renderLicenseLink(data.license)}
   
   ## GitHub
   ${data.github}

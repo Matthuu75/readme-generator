@@ -16,7 +16,7 @@
   tests
 
   ## License
-  (https://img.shields.io/badge/license-Apache2.0-green)](https://choosealicense.com/licenses/Apache2.0/)
+  (https://img.shields.io/badge/license-Apache2.0-green)(https://choosealicense.com/licenses/Apache2.0/)
   
   ## GitHub
   matthuu75
