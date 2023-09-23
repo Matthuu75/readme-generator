@@ -1,6 +1,7 @@
-# Title
+
   ![github-license](https://img.shields.io/badge/License-Apache2.0-blue.svg)
 
+  # Title
 
   ## Desription
   Description
@@ -18,17 +19,11 @@
   Testing
 
   ## License
-  function renderLicenseSection(license) {
-  if (license === 'None') {
-    return ``;
-  } else {
-    return `## License: ${renderLicenseLink(license)} license.`;
-  }
-}
+  [Apache2.0](https://choosealicense.com/licenses/apache2.0/)
   
   ## GitHub
   Github
 
   ## Email
-  email@email.com
+  Email
 
