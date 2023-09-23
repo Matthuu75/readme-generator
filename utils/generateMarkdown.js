@@ -51,7 +51,7 @@ function generateMarkdown(data) {
 
   ## License
   ${renderLicenseBadge(data.license)}](${renderLicenseLink(data.license)})
-
+  
   ## GitHub
   ${data.github}
 
@@ -61,4 +61,4 @@ function generateMarkdown(data) {
 `;
 }
 
-export default generateMarkdown;
+module.exports = generateMarkdown;
