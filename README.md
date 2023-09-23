@@ -1,28 +1,34 @@
-# 1
-  (https://img.shields.io/badge/license-Apache2.0-green)
+# Title
+  ![github-license](https://img.shields.io/badge/License-Apache2.0-blue.svg)
 
 
   ## Desription
-  2
+  Description
 
   ## Installation
-  3
+  Installation
 
   ## Usage
-  4
+  Use
 
   ## Contributing
-  5
+  Contributions
 
   ##Tests
-  6
+  Testing
 
   ## License
-  https://choosealicense.com/licenses/Apache2.0/
+  function renderLicenseSection(license) {
+  if (license === 'None') {
+    return ``;
+  } else {
+    return `## License: ${renderLicenseLink(license)} license.`;
+  }
+}
   
   ## GitHub
-  8
+  Github
 
   ## Email
-  9
+  email@email.com
 
