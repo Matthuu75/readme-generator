@@ -54,7 +54,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Project License:',
-        choices: ['MIT', 'Apache 2.0', 'None'],
+        choices: ['MIT', 'Apache2.0', 'None'],
         default: ['None'],
     },
     {
