@@ -3,13 +3,13 @@ function renderLicenseBadge(license) {
     return ``;
   }
   else {
-    return `![github-license](https://img.shields.io/badge/License-${license}-blue.svg)`;
+    return `![github-license](https://img.shields.io/badge/License-${license}-red.svg)`;
   }
 }
 
 
 function renderLicenseLink(license) {
-  if (license === 'Apache 2.0') {
+  if (license === 'None') {
     return ``;
   } else {
     return `[${license}](https://choosealicense.com/licenses/${license.toLowerCase()}/)`;
