@@ -26,7 +26,7 @@
   N/A
 
   ## Questions
-  (https://github.com/matthuu75)
+  ![Matthuu75](https://github.com/matthuu75)
 
   mlmatthews75@gmail.com
 
